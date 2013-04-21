@@ -1,5 +1,5 @@
-Saywhat - Search bing news from the commend line
-==================================================
+Saywhat - Perform a news search on the command line
+===================================================
 
 As I spent more and more time in the command line, I fancied a quick and easy way to search the news headlines withough having to alt tag away from the cursor. Hence saywhat, a basic command line tool written in node, which can pull down and display news search results, powered by bing. 
 
