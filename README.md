@@ -9,7 +9,7 @@ This programe assumes chrome, node and npm on OSX.
 ```
 $ git clone git://github.com/Defmoves/saywhat
 $ cd saywhat
-$ npm link saywhat
+$ npm link
 ```
 
 # Usage
