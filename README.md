@@ -7,7 +7,7 @@ This programe assumes chrome, node and npm on OSX.
 
 # Installation
 ```
-$ git clone git://github.com/defmoves/saywhat
+$ git clone git://github.com/Defmoves/saywhat
 $ cd saywhat
 $ npm link saywhat
 ```
