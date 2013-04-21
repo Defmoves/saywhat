@@ -2,7 +2,7 @@
   "name": "saywhat",
   "version": "0.0.4",
   "description": "README.md",
-  "repository": "",
+  "repository": "https://github.com/Defmoves/saywhat",
   "author": "Defmoves",
   "license": "BSD",
   "bin": {
